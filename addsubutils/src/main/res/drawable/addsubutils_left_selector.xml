@@ -4,7 +4,7 @@
     <item android:state_pressed="true" >
         <shape>
             <stroke android:color="@color/divider"
-                android:width="1dp"/>
+                android:width="1px"/>
             <solid android:color="@color/divider"/>
             <corners android:topLeftRadius="3dp"
                 android:bottomLeftRadius="3dp"/>
@@ -13,7 +13,7 @@
     <item android:state_pressed="false" >
         <shape>
             <stroke android:color="@color/divider"
-                android:width="1dp"/>
+                android:width="1px"/>
             <corners android:topLeftRadius="3dp"
                 android:bottomLeftRadius="3dp"/>
         </shape>

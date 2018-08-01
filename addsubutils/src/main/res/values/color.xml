@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="divider">#999</color>
+    <color name="divider">#E4E4E4</color>
     <color name="white">#fff</color>
 
     <color name="material_amber_200">#FFE082</color>
@@ -16,5 +16,5 @@
     <color name="material_teal_400">#26A69A</color>
 
 
-    <color name="addsubutils_text">#999</color>
+    <color name="addsubutils_text">#E4E4E4</color>
 </resources>
